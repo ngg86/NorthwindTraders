@@ -1,0 +1,7 @@
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\DataAccessLayer\bin\Debug\TraderClasses.dll
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\DataAccessLayer\bin\Debug\TraderClasses.pdb
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

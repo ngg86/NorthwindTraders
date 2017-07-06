@@ -1,0 +1,5 @@
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\TraderClasses\bin\Debug\TraderClasses.dll
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\TraderClasses\bin\Debug\TraderClasses.pdb
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\TraderClasses\obj\Debug\TraderClasses.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\TraderClasses\obj\Debug\TraderClasses.dll
+C:\Users\Nick\Dropbox\134405.nick.greenslade\C_Sharp\NorthwindTraders\TraderClasses\obj\Debug\TraderClasses.pdb
